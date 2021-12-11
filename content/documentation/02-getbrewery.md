@@ -8,7 +8,7 @@ Get a single brewery.
 
 ### Example Output
 
-`https://api.openbrewerydb.org/breweries/12432`
+`https://api.openbrewerydb.org/breweries/?id=12432`
 
 ```javascript
 {
